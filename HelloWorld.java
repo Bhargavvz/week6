@@ -4,7 +4,7 @@ public class HelloWorld {
         // Create an instance of the class
         HelloWorld hello = new HelloWorld();
         // Call the greet method
-        hello.greet("World hghgh");
+        hello.greet("World hghnngh");
     }
 
     // Method to greet a person
